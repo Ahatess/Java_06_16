@@ -23,7 +23,6 @@ public class Main {
             System.out.println("Ivedete skaiciu");
 
         } catch (Exception klaida) {
-            arSkaicius = true;
         }
         if (arSkaicius == true) {
             abpaieska(zodis, kiekis);
